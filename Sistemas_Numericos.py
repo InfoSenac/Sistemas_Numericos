@@ -78,6 +78,7 @@ def decimal_para_hexadecimal(decimal: int) -> str:
         
 
 st.title(':orange[Sistemas Numéricos] :sunglasses:')
+st.markdown('### Feito por Antônio Márcio - Senac Lafaiete')
 
 st.markdown('## ⚠️ *Decimal*')
 
